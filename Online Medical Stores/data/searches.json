@@ -1,0 +1,171 @@
+[
+
+    {
+        "id": 0,
+        "images": "https://d1ljlatelrv1en.cloudfront.net/Nicotex/resized/large/i151211.png",
+        "mName": "Nicotex Gums",
+        "disease": "Smoking habits",
+        "amount": "&#8377 69.3",
+        "available": ["InStock", "Out Stock"],
+        "prescription": "1 Tablates per day",
+        "company": "Nicotex",
+        "discription": ["2mg , 9 Gums", "It has dual-coated technology for great taste. Plus, intense craving relief. Nicotex Nicotine Gum that helps you Quit Smoking in 12 Weeks Clinically proven therapy to quit smoking – Nicotine Replacement Therapy (NRT) No.1 Doctor recommended brand in India in NRT Category."],
+        "catagory":["HomeCare"]
+    },
+
+    {
+        "id": 1,
+        "images": "https://5.imimg.com/data5/EX/KS/MY-57557331/paracetamol-tablet-500x500.jpg",
+        "mName": "Paracetamol",
+        "disease": "Fever",
+        "amount": "&#8377 42.0",
+        "available": ["InStock", "Out Stock"],
+        "prescription": "1 Tablates morning & evening",
+        "company": "Bristol",
+        "discription": ["500mg , 16 Tablets", "It has dual-coated technology for great taste. Plus, intense craving relief. Nicotex Nicotine Gum that helps you Quit Smoking in 12 Weeks Clinically proven therapy to quit smoking – Nicotine Replacement Therapy (NRT) No.1 Doctor recommended brand in India in NRT Category."],
+        "catagory":["Pain"]
+    },
+
+    {
+        "id": 2,
+        "images": "https://res.cloudinary.com/du8msdgbj/images/w_150,h_150,c_fit,q_auto,f_auto/v1560883702/ykrdrby4jmqgzfxa28tq/healthvit-mulvit-tablet.jpg",
+        "mName": "MULVIT",
+        "disease": "Fever",
+        "amount": "&#8377 33.0",
+        "available": ["InStock", "Out Stock"],
+        "prescription": "morning & evening",
+        "company": "Bristol",
+        "discription": ["500mg , 16 Tablets", "It has dual-coated technology for great taste. Plus, intense craving relief. Nicotex Nicotine Gum that helps you Quit Smoking in 12 Weeks Clinically proven therapy to quit smoking – Nicotine Replacement Therapy (NRT) No.1 Doctor recommended brand in India in NRT Category."],
+        "catagory":["Pain"]
+    },
+
+    {
+        "id": 3,
+        "images": "https://res.cloudinary.com/du8msdgbj/images/w_150,h_150,c_fit,q_auto,f_auto/v1549518863/byqqjrm8oa3rpcsbkrle/gnc-mega-men-50-plus-caplet.png",
+        "mName": "Paracetamol",
+        "disease": "Fever",
+        "amount": "&#8377 42.0",
+        "available": ["InStock", "Out Stock"],
+        "prescription": "1 Tablates morning & evening",
+        "company": "Bristol",
+        "discription": ["500mg , 16 Tablets", "It has dual-coated technology for great taste. Plus, intense craving relief. Nicotex Nicotine Gum that helps you Quit Smoking in 12 Weeks Clinically proven therapy to quit smoking – Nicotine Replacement Therapy (NRT) No.1 Doctor recommended brand in India in NRT Category."],
+        "catagory":["Pain"]
+    },
+
+    {
+        "id": 4,
+        "images": "https://res.cloudinary.com/du8msdgbj/images/w_150,h_150,c_fit,q_auto,f_auto/v1537446519/mkq0luscfsnujpzednmu/himalaya-tentex-forte-tablet.jpg",
+        "mName": "Himalaya",
+        "disease": "Fever",
+        "amount": "&#8377 42.0",
+        "available": ["InStock", "Out Stock"],
+        "prescription": "1 Tablates morning & evening",
+        "company": "Bristol",
+        "discription": ["500mg , 16 Tablets", "It has dual-coated technology for great taste. Plus, intense craving relief. Nicotex Nicotine Gum that helps you Quit Smoking in 12 Weeks Clinically proven therapy to quit smoking – Nicotine Replacement Therapy (NRT) No.1 Doctor recommended brand in India in NRT Category."],
+        "catagory":["Skin"]
+    },
+
+    {
+        "id": 5,
+        "images": "https://res.cloudinary.com/du8msdgbj/images/w_150,h_150,c_fit,q_auto,f_auto/v1527769424/l928qlv77jezvua2xdid/dabur-pudin-hara-pearls.jpg",
+        "mName": "Dabur",
+        "disease": "Fever",
+        "amount": "&#8377 42.0",
+        "available": ["InStock", "Out Stock"],
+        "prescription": "1 Tablates morning & evening",
+        "company": "Bristol",
+        "discription": ["500mg , 16 Tablets", "It has dual-coated technology for great taste. Plus, intense craving relief. Nicotex Nicotine Gum that helps you Quit Smoking in 12 Weeks Clinically proven therapy to quit smoking – Nicotine Replacement Therapy (NRT) No.1 Doctor recommended brand in India in NRT Category."],
+        "catagory":["BabyCare"]
+    },
+
+    {
+        "id": 6,
+        "images": "https://res.cloudinary.com/du8msdgbj/images/w_150,h_150,c_fit,q_auto,f_auto/v1527769424/ies0qn57y5w0ryzzzkoi/horlicks-junior-stage-1-health-and-nutrition-drink-original.jpg",
+        "mName": "Horlicks Junior",
+        "disease": "Weakness",
+        "amount": "&#8377 285.0",
+        "available": ["InStock", "Out Stock"],
+        "prescription": "1 Spoon with milk in morning & evening",
+        "company": "Horlicks",
+        "discription": ["500g , powder box"],
+        "catagory":["BabyCare"]
+    },
+
+    {
+        "id": 7,
+        "images": "https://res.cloudinary.com/du8msdgbj/images/w_150,h_150,c_fit,q_auto,f_auto/v1557255331/iozcnhvkrh28eywbkywx/as-it-is-nutrition-whey-protein-concentrate.jpg",
+        "mName": "Nutrition",
+        "disease": "Fever",
+        "amount": "&#8377 42.0",
+        "available": ["InStock", "Out Stock"],
+        "prescription": "1 Tablates morning & evening",
+        "company": "Bristol",
+        "discription": ["500mg , 16 Tablets", "It has dual-coated technology for great taste. Plus, intense craving relief. Nicotex Nicotine Gum that helps you Quit Smoking in 12 Weeks Clinically proven therapy to quit smoking – Nicotine Replacement Therapy (NRT) No.1 Doctor recommended brand in India in NRT Category."],
+        "catagory":["FamilyCare","Fitness"]
+    },
+    {
+        "id": 8,
+        "images": "https://res.cloudinary.com/du8msdgbj/images/w_150,h_150,c_fit,q_auto,f_auto/v1527769765/joeqr09ooeqpb1wkfd0a/nature-s-velvet-natural-vitamin-c-500mg-capsule.jpg",
+        "mName": "Vitamin",
+        "disease": "Fever",
+        "amount": "&#8377 42.0",
+        "available": ["InStock", "Out Stock"],
+        "prescription": "1 Tablates morning & evening",
+        "company": "Bristol",
+        "discription": ["500mg , 16 Tablets", "It has dual-coated technology for great taste. Plus, intense craving relief. Nicotex Nicotine Gum that helps you Quit Smoking in 12 Weeks Clinically proven therapy to quit smoking – Nicotine Replacement Therapy (NRT) No.1 Doctor recommended brand in India in NRT Category."],
+        "catagory":["HomeCare","Fitness"]
+    }
+    ,
+
+    {
+        "id": 9,
+        "images": "https://res.cloudinary.com/du8msdgbj/images/w_150,h_150,c_fit,q_auto,f_auto/v1527769424/l928qlv77jezvua2xdid/dabur-pudin-hara-pearls.jpg",
+        "mName": "Dabur",
+        "disease": "Fever",
+        "amount": "&#8377 42.0",
+        "available": ["InStock", "Out Stock"],
+        "prescription": "1 Tablates morning & evening",
+        "company": "Bristol",
+        "discription": ["500mg , 16 Tablets", "It has dual-coated technology for great taste. Plus, intense craving relief. Nicotex Nicotine Gum that helps you Quit Smoking in 12 Weeks Clinically proven therapy to quit smoking – Nicotine Replacement Therapy (NRT) No.1 Doctor recommended brand in India in NRT Category."],
+        "catagory":["BabyCare"]
+    },
+
+    {
+        "id": 10,
+        "images": "https://res.cloudinary.com/du8msdgbj/images/w_150,h_150,c_fit,q_auto,f_auto/v1527769424/ies0qn57y5w0ryzzzkoi/horlicks-junior-stage-1-health-and-nutrition-drink-original.jpg",
+        "mName": "Horlicks Junior",
+        "disease": "Weakness",
+        "amount": "&#8377 285.0",
+        "available": ["InStock", "Out Stock"],
+        "prescription": "1 Spoon with milk in morning & evening",
+        "company": "Horlicks",
+        "discription": ["500g , powder box"],
+        "catagory":["BabyCare"]
+    },
+
+    {
+        "id": 11,
+        "images": "https://res.cloudinary.com/du8msdgbj/images/w_150,h_150,c_fit,q_auto,f_auto/v1557255331/iozcnhvkrh28eywbkywx/as-it-is-nutrition-whey-protein-concentrate.jpg",
+        "mName": "Nutrition",
+        "disease": "Fever",
+        "amount": "&#8377 42.0",
+        "available": ["InStock", "Out Stock"],
+        "prescription": "1 Tablates morning & evening",
+        "company": "Bristol",
+        "discription": ["500mg , 16 Tablets", "It has dual-coated technology for great taste. Plus, intense craving relief. Nicotex Nicotine Gum that helps you Quit Smoking in 12 Weeks Clinically proven therapy to quit smoking – Nicotine Replacement Therapy (NRT) No.1 Doctor recommended brand in India in NRT Category."],
+        "catagory":["HomeCare","Fitness"]
+    },
+    {
+        "id": 12,
+        "images": "https://res.cloudinary.com/du8msdgbj/images/w_150,h_150,c_fit,q_auto,f_auto/v1527769765/joeqr09ooeqpb1wkfd0a/nature-s-velvet-natural-vitamin-c-500mg-capsule.jpg",
+        "mName": "Vitamin",
+        "disease": "Fever",
+        "amount": "&#8377 42.0",
+        "available": ["InStock", "Out Stock"],
+        "prescription": "1 Tablates morning & evening",
+        "company": "Bristol",
+        "discription": ["500mg , 16 Tablets", "It has dual-coated technology for great taste. Plus, intense craving relief. Nicotex Nicotine Gum that helps you Quit Smoking in 12 Weeks Clinically proven therapy to quit smoking – Nicotine Replacement Therapy (NRT) No.1 Doctor recommended brand in India in NRT Category."],
+        "catagory":["Fitness"]
+    }
+
+]

@@ -1,0 +1,83 @@
+
+.loginScreen{
+    display:none;
+ }
+#regpage{
+    display:block;
+}
+.loginContainer label[for=NoAccount]{
+    width:100%;
+    text-align:center;
+    margin:0px;
+    padding:0px;
+    color:#ab0011;
+}
+.loginContainer label[for=loginAccount]{
+    width:100%;
+    text-align:center;
+    font-weight:999;
+    margin:0px;
+    padding:5px;
+    color:#306bff;
+    background-color:#a7cdcf;
+    border-radius:5px;
+}
+.loginContainer label[for=sociallogin]{
+    width:100%;
+    text-align:center;
+    font-weight:normal;
+    margin:0px;
+    padding:0px;
+    color:#d16004;
+}
+#logpage{
+    width:20%;
+    display:none;
+}
+.loginforms button{
+    width:100%;
+}
+.loginContainer label{
+    margin:8px;
+}
+.registerform{
+    display:none;
+    margin-top:20px;
+}
+.closes i{
+    position:absolute;
+    right:0px;
+}
+.loginforms{
+    display:block;
+}
+.loginforms button, .registerforms button{
+    margin-top:15px;
+}
+.registerforms{
+    display:none;
+}
+.socialloginforms button{
+    width:100%;
+    height:50px;
+    padding:0px;
+    display:block;
+    margin-top:10px;
+    outline:none;
+    border:none;
+    border-radius:10px;
+    color:white;
+    font-weight:999;
+}
+.facebook{
+    background-color:#2a5cb8;
+}
+.gmail{
+    background-color:#d65336;
+}
+.card-img-left{
+   width: 40%;
+    background:url("http://localhost/Online%20Medical%20Stores/images/login_images.jpeg");
+    background-position: center;
+    background-size: cover; 
+}

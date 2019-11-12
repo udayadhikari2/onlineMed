@@ -1,0 +1,147 @@
+ * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .logo{
+     padding:10px;
+     font-weight:bold;
+     margin-right:10px;
+    }
+    .logo:hover{
+        cursor: pointer;
+    }
+    .logo img{
+        border-radius: 50%;
+        width:60px;
+    }
+    .menubar {
+        position: relative;
+        background-color:#216d7a;
+        width:100%;
+        text-align: center;
+        display:flex;
+        z-index:10000;
+    }
+    .menubar ul {
+        display: inline-flex;
+        flex-wrap: wrap;
+        margin-top:10px;
+    }
+    .menubar ul li {
+        padding: 10px;
+        margin: 10px;
+        width: 120px;
+        list-style: none;
+
+    }
+
+    .menubar ul li a {
+        color: white;
+        font-weight: bold;
+        text-decoration:none;
+    }
+    .active{
+        background-color:black;
+        opacity:0.8;
+        border-radius: 5px;
+    }
+    .menubar ul li:hover {
+        background-color: black;
+        border-radius: 5px;
+    }
+    .dropCatagory {
+        display: none;
+        text-align:center;
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius:10px ;
+    }
+    .dropCatagory ul li{
+        margin-top:15px;
+        margin-bottom:15px;;
+    }
+    .dropCatagory ul li a{
+        font-weight:bold;
+    }
+    .menubar ul li:hover .dropCatagory {
+        display: block;
+        position: absolute;
+        margin-top:10px;
+        margin-left: -20px;
+        background:#216d7a;
+    }
+    .menubar ul li:hover .dropCatagory ul {
+        display: block;
+    }
+    .menubar ul li:hover .dropCatagory ul li {
+        border-bottom: 1px solid black;
+        border-radius: 0px;
+        padding:0px;
+        background-color: transparent;
+    }
+    .menubar ul li:hover .dropCatagory ul li:first-child{
+        margin-top:25px;
+    }
+    .menubar ul li:hover .dropCatagory ul li:last-child {
+        border-bottom: none;
+    }
+
+    .menubar ul li:hover .dropCatagory ul li a:hover {
+        color: black;
+    }
+    .logInto li {
+        margin-left:50px;
+        margin-top:25px;
+        color:white;
+        font-weight:bold;
+        text-decoration:none;
+        list-style:none;
+        display:block;
+    }
+    .searchbox{
+        margin-left:40px;
+        display:block;
+    }
+    .searchbar{
+        margin-bottom: auto;
+        margin-top: auto;
+        height: 40px;
+        background-color: #353b48;
+        border-radius: 30px;
+        padding: 5px;
+        }
+    
+        .search_input{
+        color: white;
+        border: 0;
+        outline: 0;
+        background: none;
+        width: 0;
+        caret-color:transparent;
+        line-height: 25px;
+        transition: width 0.4s linear;
+        }
+    
+        .searchbar:hover > .search_input{
+        padding: 0 10px;
+        width: 170px;
+        caret-color:red;
+        transition: width 0.4s linear;
+        }
+    
+        .searchbar:hover > .search_icon{
+        background: white;
+        color: #e74c3c;
+        }
+    
+        .search_icon{
+        height: 30px;
+        width: 30px;
+        float: right;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 50%;
+        color:white;
+        }

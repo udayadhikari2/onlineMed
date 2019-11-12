@@ -1,0 +1,97 @@
+body{
+    padding:0px;
+    margin:0px;
+    background: scroll url("http://localhost/Online%20Medical%20Stores/images/bodyImage.jpeg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.body-section{
+    top:90px;
+    margin:0px;
+    padding:0px; 
+    overflow: hidden;
+}
+#medicineDetails{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:left;
+}
+.carousel-item img{
+    height:150px;
+    opacity: 0.8; 
+}
+/* .card-body{
+    font-size:14px;
+} */
+.carousel{
+    z-index:-1;
+}
+.namedFor{
+    text-align:center;
+    font-size:20px;
+    width:100%;
+    opacity:0.9;
+}
+.facilatiesList{
+    margin:1px;
+    display: flex;
+    background-color:rgb(51, 110, 95);
+  
+}
+.facilaties ul{
+   text-align:center;
+   opacity:0.9;
+}
+.facilatiesList li{
+    width:400px;
+    margin:0px 0px;
+    list-style: none;
+    padding:5px;
+    color:white;
+    font-weight:999; 
+}
+.facilatiesList li span{
+    color:red;
+    font-weight:bold;
+}
+.modal-body li{
+    list-style:none;
+    margin-left:20px;
+    padding:5px;
+}
+.modal-title{
+    text-align:center;
+}
+.pager{
+    display:flex;
+    justify-content:space-around;
+}
+.pager li{
+    margin:15px;
+    width:100px;
+    border-radius:20px;
+    text-align:center;
+    list-style: none;
+    background-color:rgb(231, 145, 47);
+    font-weight:bold;
+}
+.abc{
+    position: absolute;
+}
+.modal-content{
+    color:black;
+    text-align:left;
+}
+.descImage{
+position: absolute;
+top:150px;
+left:170px;
+}
+.descImage img{
+    background-color:white;
+    height:300px;
+    width:250px;
+    border:1px solid black;
+    border-radius:10px;
+    opacity:0.9;
+}
